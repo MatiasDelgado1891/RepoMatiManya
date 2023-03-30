@@ -1,0 +1,8 @@
+C:\Users\matia\OneDrive\Escritorio\Nueva carpeta\PruebaGit\PruebaGit\bin\Debug\PruebaGit.exe.config
+C:\Users\matia\OneDrive\Escritorio\Nueva carpeta\PruebaGit\PruebaGit\bin\Debug\PruebaGit.exe
+C:\Users\matia\OneDrive\Escritorio\Nueva carpeta\PruebaGit\PruebaGit\bin\Debug\PruebaGit.pdb
+C:\Users\matia\OneDrive\Escritorio\Nueva carpeta\PruebaGit\PruebaGit\obj\Debug\PruebaGit.csproj.AssemblyReference.cache
+C:\Users\matia\OneDrive\Escritorio\Nueva carpeta\PruebaGit\PruebaGit\obj\Debug\PruebaGit.csproj.SuggestedBindingRedirects.cache
+C:\Users\matia\OneDrive\Escritorio\Nueva carpeta\PruebaGit\PruebaGit\obj\Debug\PruebaGit.csproj.CoreCompileInputs.cache
+C:\Users\matia\OneDrive\Escritorio\Nueva carpeta\PruebaGit\PruebaGit\obj\Debug\PruebaGit.exe
+C:\Users\matia\OneDrive\Escritorio\Nueva carpeta\PruebaGit\PruebaGit\obj\Debug\PruebaGit.pdb
